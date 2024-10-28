@@ -1,6 +1,6 @@
 # Bank-Loan-Analytics-Finance-Domain
 ## Overview
-This project conducts an in-depth analysis of bank loan data, utilizing SQL for powerful data querying and manipulation. Enhanced with advanced visualizations and exploration in Power BI, Excel, and Tableau, the analysis aims to uncover actionable insights into loan applications, funding, repayments, and borrower demographics. It examines multiple dimensions, including temporal trends (monthly patterns, loan durations), geographical factors (state-level insights), and categorical elements (loan purposes, homeownership status).
+This project conducts an in-depth analysis of bank loan data, utilizing SQL for powerful data querying and manipulation. Enhanced with advanced visualizations and exploration in Power BI and  Excel the analysis aims to uncover actionable insights into loan applications, funding, repayments, and borrower demographics. It examines multiple dimensions, including temporal trends (monthly patterns, loan durations), geographical factors (state-level insights), and categorical elements (loan purposes, homeownership status).
 
 ## Objectives
 **Conduct a Thorough Evaluation of Loan Portfolio Performance**: Analyze the bank's loan portfolio to pinpoint both strengths and areas needing improvement, providing a clear picture of overall performance.
